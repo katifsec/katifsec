@@ -30,24 +30,22 @@
 
 ### 🛠️ Tools & Technologies  
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3E00?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nessus](https://img.shields.io/badge/Nessus-00A5C9?style=for-the-badge&logo=tenable&logoColor=white)  
-![Aquantix](https://img.shields.io/badge/Aquantix-5E5DF0?style=for-the-badge&logo=security&logoColor=white)  
-![OpenVAS](https://img.shields.io/badge/OpenVAS-67C745?style=for-the-badge&logo=security&logoColor=white)  
-![ZAP Proxy](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)  
-![SQLmap](https://img.shields.io/badge/SQLmap-FEFE00?style=for-the-badge&logo=sqlite&logoColor=black)  
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=security&logoColor=green)  
-![Hashcat](https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logo=security&logoColor=white)  
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge&logo=security&logoColor=white)  
-![Objection](https://img.shields.io/badge/Objection-990000?style=for-the-badge&logo=android&logoColor=white)  
-![Frida](https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=frida&logoColor=white)  
-![ADB](https://img.shields.io/badge/ADB-0A66C2?style=for-the-badge&logo=android&logoColor=white)  
-![Drozer](https://img.shields.io/badge/Drozer-FF4500?style=for-the-badge&logo=security&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3E00?style=for-the-badge&logo=burp-suite&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-00A5C9?style=for-the-badge&logo=tenable&logoColor=white) ![Aquantix](https://img.shields.io/badge/Aquantix-5E5DF0?style=for-the-badge&logo=security&logoColor=white)  ![OpenVAS](https://img.shields.io/badge/OpenVAS-67C745?style=for-the-badge&logo=security&logoColor=white) ![ZAP Proxy](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)  ![SQLmap](https://img.shields.io/badge/SQLmap-FEFE00?style=for-the-badge&logo=sqlite&logoColor=black) ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=security&logoColor=green) ![Hashcat](https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logo=security&logoColor=white)  ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge&logo=security&logoColor=white) ![Objection](https://img.shields.io/badge/Objection-990000?style=for-the-badge&logo=android&logoColor=white)  ![Frida](https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=frida&logoColor=white) 
+![ADB](https://img.shields.io/badge/ADB-0A66C2?style=for-the-badge&logo=android&logoColor=white) ![Drozer](https://img.shields.io/badge/Drozer-FF4500?style=for-the-badge&logo=security&logoColor=white)  
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 
 
 ---
