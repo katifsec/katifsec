@@ -1,9 +1,6 @@
-[![Hacking Banner](https://github.com/katifsec/katifsec/blob/main/1457dbc4-f5cc-4f83-aff9-0b4a1cb2c787.png)](https://private-user-images.githubusercontent.com/168954568/352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMzIzODUsIm5iZiI6MTc0MjAzMjA4NSwicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUxOTE0LWUyNmQxZDZhLTMwZWUtNDg4ZS05MGNhLTExYjNhYTE4MDE0OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNVQwOTQ4MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZjAwNjZlOTRjNDU1NzRlOTBhNWQyOWQyY2Y1Y2RmZDc2MjFlNmU5ZDAyZWJiZDg0OTcyZGFmYmJkM2JlMjU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bGn_d9nJV3NvcsHMc0XhyoQjdT-dNuE6iud-cSkoR7M)
+[![Hacking Banner](https://github.com/katifsec/katifsec/blob/main/1457dbc4-f5cc-4f83-aff9-0b4a1cb2c787.png)
 
 <h1 align="center">👋 Hey, I'm Katif Ahmad (K.A.H) </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" height="300" />
-</p>
 
 ---
 
