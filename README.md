@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/katifsec-banner.svg" alt="Md Katif Ahmad — Offensive Security Engineer" width="100%" />
+  <img
+    src="./assets/katifsec-banner-animated.svg"
+    alt="Md Katif Ahmad — Offensive Security Portfolio"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Md Katif Ahmad</h1>
