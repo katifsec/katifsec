@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">KatifSec operator terminal</title>
+  <desc id="desc">A dark cyan and violet terminal card summarizing offensive security focus areas.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34D9FF"/>
+      <stop offset=".5" stop-color="#6F7CFF" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx=".1" cy=".1" r=".9">
+      <stop offset="0" stop-color="#34D9FF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#34D9FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="230" rx="24" fill="#070A12"/>
+  <rect x="1" y="1" width="1198" height="228" rx="23" fill="url(#glow1)" stroke="url(#border)" stroke-opacity=".6"/>
+  <circle cx="34" cy="30" r="6" fill="#FF5E57"/>
+  <circle cx="55" cy="30" r="6" fill="#FFBD2E"/>
+  <circle cx="76" cy="30" r="6" fill="#28CA42"/>
+  <text x="105" y="36" fill="#74819D" font-family="Consolas, monospace" font-size="17">operator_profile.yaml</text>
+  <text x="38" y="84" fill="#34D9FF" font-family="Consolas, monospace" font-size="20">katif@offsec:~$</text>
+  <text x="225" y="84" fill="#F4F7FF" font-family="Consolas, monospace" font-size="20">validate_risk --report_precisely</text>
+  <text x="38" y="124" fill="#78D6FF" font-family="Consolas, monospace" font-size="18">focus:</text>
+  <text x="148" y="124" fill="#C19CFF" font-family="Consolas, monospace" font-size="18">web · api · mobile · active_directory · cloud · malware · dfir</text>
+  <text x="38" y="162" fill="#78D6FF" font-family="Consolas, monospace" font-size="18">mission:</text>
+  <text x="148" y="162" fill="#DDE5F8" font-family="Consolas, monospace" font-size="18">Think offensively. Validate responsibly. Report precisely.</text>
+  <text x="38" y="200" fill="#3EE6A8" font-family="Consolas, monospace" font-size="17">status: operational</text>
+</svg>

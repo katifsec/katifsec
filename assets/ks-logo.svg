@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">KatifSec KS Logo</title>
+  <desc id="desc">A geometric KS monogram in cyan, blue and violet on a dark technical background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050711"/>
+      <stop offset="1" stop-color="#0D1230"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4FCFF"/>
+      <stop offset=".35" stop-color="#55DDFF"/>
+      <stop offset="1" stop-color="#6477FF"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D7CFF"/>
+      <stop offset=".55" stop-color="#985CFF"/>
+      <stop offset="1" stop-color="#D06BFF"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#34D9FF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#34D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#A855F7" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".55"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+  <circle cx="150" cy="130" r="190" fill="url(#glowA)"/>
+  <circle cx="390" cy="380" r="190" fill="url(#glowB)"/>
+
+  <g fill="none" stroke="#8EA7FF" stroke-opacity=".16">
+    <circle cx="256" cy="256" r="206"/>
+    <circle cx="256" cy="256" r="178" stroke-dasharray="4 12"/>
+    <path d="M54 256h68M390 256h68M256 54v68M256 390v68"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <!-- K -->
+    <path d="M112 104h66v119l103-119h84L246 239l126 169h-84l-87-120-23 24v96h-66V104Z"
+          fill="url(#cyan)"/>
+    <!-- S integrated as angular lower-right stroke -->
+    <path d="M386 126c-29-20-67-31-105-31-68 0-111 33-111 84 0 49 38 70 100 82l25 5c29 6 39 13 39 27 0 18-18 28-48 28-36 0-77-14-106-36l-30 55c37 29 85 45 135 45 76 0 119-35 119-93 0-49-35-72-99-85l-25-5c-29-6-40-12-40-25 0-15 16-24 43-24 31 0 63 10 91 27l32-54Z"
+          fill="url(#violet)" opacity=".94"/>
+  </g>
+
+  <g fill="#34D9FF">
+    <circle cx="75" cy="256" r="5"/>
+    <circle cx="437" cy="256" r="5"/>
+  </g>
+</svg>
